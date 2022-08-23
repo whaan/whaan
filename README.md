@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wim de Haan AKA @whaan
-- 👀 I’m interested in Cloud Engineering
+- 👀 I’m interested in Cloud Engineering / SRE
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on writing Infrastructure as Code
 - 📫 How to reach me
